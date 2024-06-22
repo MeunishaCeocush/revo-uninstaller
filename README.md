@@ -14,10 +14,36 @@
 
 +    Different versions: Available in Free, Pro, and Pro Portable versions, each offering varying degrees of functionality. The Pro versions include features like forced uninstallation, real-time system monitoring, multi-level backup, command line program uninstall support, dark mode customization, and portability for use on multiple computers or USB sticks.
 
-*Remove programs completely and effortlessly with Revo Uninstaller Pro*
+👉 Scanning for leftovers after the standard uninstall
 
-Revo Uninstaller Pro removes programs by first running the program’s built-in uninstaller and then scanning for leftover data, which can include files, folders, and entries in the Windows Registry, that may still exist and potentially cause various issues.
+👉 8 Additional cleaning tools included
 
-*Utilizing advanced scanning algorithms that have been finely tuned for more than 16 years, Revo Uninstaller Pro is the best choice for software removal*
+👉 Uninstall Windows Apps
 
-With the release of Revo Uninstaller Pro, we introduce the functionality to uninstall programs and apps for standard (non-admin) users, as well as the option to scan for leftovers for all available accounts (administrator or user) on the computer.
+👉 Remove Browsers Extensions
+
+👉 Forced Uninstall – remove remnants of already uninstalled programs
+
+👉 Quick/Multiple Uninstall
+
+👉 Extended scanning for leftovers
+
+👉 Real-Time monitoring of system changes & Logs Database
+
+👉 Multi-level Backup system
+
+👉 Command line program uninstall support
+
+👉 Dark mode and customization
+
+👉 Uninstall programs and apps for standard (non-admin) users
+
+👉 Scanning for leftovers for all Windows user accounts
+
+👉 3 new Windows tools and an option to add your ow
+
+👉 Unlimited computers
+
+👉 Suitable for use with USB stick
+
+[<img src="https://github.com/MeunishaCeocush/revo-uninstaller/blob/main/dl.png"/>](https://bit.ly/4ccbnxO)
